@@ -43,10 +43,6 @@ When I'm not coding, you'll find me exploring tech blogs, playing strategy games
 🛠️ **Tech is limitless, and so is learning. Let's build the future together!**  
 ⭐ If you find my work interesting, don't forget to [follow me](https://github.com/ravi-chaurasiya)!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravi-Chaurasiya/Ravi-Chaurasiya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravi-Chaurasiya/Ravi-Chaurasiya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ravi-Chaurasiya/Ravi-Chaurasiya/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
