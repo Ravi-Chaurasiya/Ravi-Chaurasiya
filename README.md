@@ -13,9 +13,9 @@
 </div>
 
 <p align="center">
-  <a href="ravichaurasiya.info"><img src="https://img.shields.io/badge/Portfolio-ajaysharma.xyz-blue?style=flat-square&logo=vercel"></a>
-  <a href="https://linkedin.com/in/ravichaurasiya"><img src="https://img.shields.io/badge/LinkedIn-ajshrma-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:ravichaurasiya693@gmail.com"><img src="https://img.shields.io/badge/Email-ajshrmaofficial%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="ravichaurasiya.info"><img src="https://img.shields.io/badge/Portfolio-ravichaurasiya.info-blue?style=flat-square&logo=vercel"></a>
+  <a href="https://linkedin.com/in/ravichaurasiya"><img src="https://img.shields.io/badge/LinkedIn-ravichaurasiya-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ravichaurasiya693@gmail.com"><img src="https://img.shields.io/badge/Email-ravichaurasiya693@gmail.comblue?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
@@ -31,17 +31,3 @@ I'm a passionate **Full-Stack Developer** and **React Native Enthusiast** curren
 - Since February 2022, I have been co-leading the Open Source Development Club at Echelon Institute of Technology, working alongside the club head to foster a strong coding culture with over 50+ student developers. I've organized 15+ workshops and collaborative coding sessions, where I mentored peers in FOSS applications and projects. Through these initiatives, I've honed my leadership, project management, and community-building skills, contributing to a more engaged and collaborative development environment.
   
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-###
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
