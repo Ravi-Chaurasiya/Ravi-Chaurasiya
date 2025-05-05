@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** and **React Native Enthusiast** currently pursuing my B.Tech in Computer Science and Engineering at Echelon Institute of Technology. I love crafting scalable solutions, optimizing performance, and creating delightful user experiences.
+I'm a passionate **Full-Stack Developer** and **UI/UX** currently pursuing my B.Tech in Computer Science and Engineering at Echelon Institute of Technology. I love crafting scalable solutions, optimizing performance, and creating delightful user experiences.
 
 
 # 💻 Tech Stack:
@@ -32,5 +32,18 @@ I'm a passionate **Full-Stack Developer** and **React Native Enthusiast** curren
 ## 🏆 Achievements & Leadership
 
 - Since February 2022, I have been co-leading the Open Source Development Club at Echelon Institute of Technology, working alongside the club head to foster a strong coding culture with over 50+ student developers. I've organized 15+ workshops and collaborative coding sessions, where I mentored peers in FOSS applications and projects. Through these initiatives, I've honed my leadership, project management, and community-building skills, contributing to a more engaged and collaborative development environment.
-  
+
+---
+
+## ✨ Fun Fact
+When I'm not coding, you'll find me exploring tech blogs, playing strategy games, travelling, or in the devoation of **Lord Shiva**.
+
+---
+
+🛠️ **Tech is limitless, and so is learning. Let's build the future together!**  
+⭐ If you find my work interesting, don't forget to [follow me](https://github.com/ravi-chaurasiya)!
+
+<img src="https://raw.githubusercontent.com/Ravi-Chaurasiya/Ravi-Chaurasiya/output/snake.svg" alt="Snake animation" />
+
+###
 
