@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <a href="ravichaurasiya.info"><img src="https://img.shields.io/badge/Portfolio-ravichaurasiya.info-blue?style=flat-square&logo=vercel"></a>
+  <a href="ravichaurasiya.info"><img src="https://img.shields.io/badge/personal-portfolio-blond-tau.vercel.app-blue?style=flat-square&logo=vercel"></a>
   <a href="https://linkedin.com/in/ravichaurasiya"><img src="https://img.shields.io/badge/LinkedIn-ravichaurasiya-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:ravichaurasiya693@gmail.com"><img src="https://img.shields.io/badge/Email-ravichaurasiya693@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
